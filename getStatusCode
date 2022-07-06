@@ -1,0 +1,21 @@
+1. Utilizando uma folha de cálculo do Google Sheets, pretendo verificar o estado de uma lista de endereços de websites (URLs).
+2. Vou obter para cada URL o seu estado atual. Se estiver online, a resposta é 200, 301, etc. Se estiver offline ou inacessível, a resposta é 400, 500, etc. Para saber mais sobre o assunto, consulte por exemplo https://www.devmedia.com.br/http-status-code/41222
+3. Na folha de cálculo do Google: Clicar em Extensões >> Apps Script >> Criar novo projeto >> colar o seguinte código >> Gravar 
+
+function getStatusCode(url){
+   var options = {
+     'muteHttpExceptions': true
+   };
+   var url_trimmed = url.trim();
+   var response = UrlFetchApp.fetch(url_trimmed, options);
+   return response.getResponseCode();
+}
+
+4. Voltar à folha de cálculo Google, escolher a coluna e a primeira célula para fazer a chamada ao Script e obter o resultado. Se a lista de endereços ou URLs está na coluna A, então vamos escolher a coluna B, começando pelo primeiro endereço.
+5. Colocamos na célula o seguinte código
+
+=getStatusCode(A2)
+
+6. Esta expressão de código verifica o status code do endereço que está na célula A2.
+7. Para verificar todos os endereços da lista basta arrastar a fórmula (rato no canto inferior direito) para as células abaixo.
+8. Este serviço consegue verificar até 2000 links por dia para um utilizador.
