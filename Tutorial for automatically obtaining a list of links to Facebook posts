@@ -1,0 +1,24 @@
+This is what a link to a Facebook post looks like:
+https://www.facebook.com/politecnicodelisboa/posts/pfbid02q46bqbgSKZMLPaQX3DRU3oY1ubYQLSCT3WGsxkRNd37LtUgXkxYosVwo3iGbWRmpl
+
+If we analyse it, we'll find 3 parts (address, post section, post id):
+1- https://www.facebook.com/politecnicodelisboa/
+2- posts/
+3 -pfbid02q46bqbgSKZMLPaQX3DRU3oY1ubYQLSCT3WGsxkRNd37LtUgXkxYosVwo3iGbWRmpl
+
+Tutorial
+1- Open the facebook page in your browser, inspect the page with a right click and open, then click on "console", a tool mostly for programmers; 
+2- Move the mouse slowly to the area of the page where the Facebook posts are and scroll down as many posts as you like; do nothing else;
+3- After scrolling through the Facebook posts, place the mouse in the console area, close the >> character and copy and paste the following filter:
+
+
+Tutorial
+1- Open the facebook page in your browser, inspect the page with a right click on the mouse and and open, then click on "console", a tool mostly for developers; 
+2- Move the mouse slowly to area of the page where the Facebook posts can be seen and scroll down as many post as you want; do nothing else;
+3- After scrolling down Facebook posts, put the mouse on the console area, close the character >> and copy past the following filter:
+
+console.log(Array.from(document.querySelectorAll('a')).filter(a => a.href.contains('pfbid')).map(a => a.href).map(href => href.split('?')[0]).reduce((acc, href) => acc+"\n"+href,''))
+
+4- A clean Facebook list should appear. Copy and paste all the links into a text document.
+
+Use the resulting list to reference, access and document institutional communication on Facebook.
