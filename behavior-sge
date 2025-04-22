@@ -1,0 +1,1376 @@
+{
+    "title": "Recording 4/21/2025 at 10:47:12 AM",
+    "selectorAttribute": "behavior-teste",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1260,
+            "height": 1050,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[1]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "aria/Posse de Rui Ventura como presidente da Comissão Executiva da Entidade Regional de Turismo do Centro de Portugal"
+                ]
+            ],
+            "offsetY": 0.3680419921875,
+            "offsetX": 92.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/posse-de-rui-ventura-como-presidente-da-comissao-executiva-da-entidade-regional-de-turismo-do-centro-de-portugal.aspx",
+                    "title": "Posse de Rui Ventura como presidente da Comissão Executiva da Entidade Regional de Turismo do Centro de Portugal"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 4.3402099609375,
+            "offsetX": 12.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[2]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "aria/Revista BOW, n.º 34 da AEP – Artigo do SGA GOV “A Inteligência Artificial na União Europeia e o Impacto em Portugal”"
+                ]
+            ],
+            "offsetY": 5.454833984375,
+            "offsetX": 185.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/revista-bow-n-34-da-aep-artigo-do-sgagov-a-inteligencia-artificial-na-uniao-europeia-e-o-impacto-em-portugal.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 3.8853759765625,
+            "offsetX": 23.75341796875,
+            "duration": 616.6000000089407
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[3]/div[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) a"
+                ],
+                [
+                    "aria/Governo aprova medidas de apoio à competitividade, exportação e internacionalização"
+                ]
+            ],
+            "offsetY": 6.5242919921875,
+            "offsetX": 251.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/governo-aprova-medidas-de-apoio-a-competitividade-exportacao-e-internacionalizacao.aspx",
+                    "title": "Governo aprova medidas de apoio à competitividade, exportação e internacionalização"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 5.4791259765625,
+            "offsetX": 11.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[4]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "aria/Entidades coordenadoras programas orçamentais - Investimentos estruturantes: Apresentação de nova aplicação para reporte"
+                ]
+            ],
+            "offsetY": 9.611083984375,
+            "offsetX": 232.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/entidades-coordenadoras-programas-orcamentais-investimentos-estruturantes-apresentacao-de-nova-aplicacao-para-reporte.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 2.236083984375,
+            "offsetX": 12.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "a:nth-of-type(7)"
+                ],
+                [
+                    "xpath///*[@id=\"pagination-pages\"]/a[7]"
+                ],
+                [
+                    "pierce/a:nth-of-type(7)"
+                ],
+                [
+                    "aria/próximo »"
+                ],
+                [
+                    "text/próximo »"
+                ]
+            ],
+            "offsetY": 10.92010498046875,
+            "offsetX": 38.635406494140625,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[1]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "aria/ME - Nota de pesar - Raul Almeida"
+                ],
+                [
+                    "text/ME - Nota de"
+                ]
+            ],
+            "offsetY": 8.3680419921875,
+            "offsetX": 144.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/me-nota-de-pesar-raul-almeida.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 6.9652099609375,
+            "offsetX": 24.42010498046875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[2]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "aria/Gov.pt: a nova aplicação móvel para serviços públicos já está disponível"
+                ]
+            ],
+            "offsetY": 3.454833984375,
+            "offsetX": 261.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/govpt-a-nova-aplicacao-movel-para-servicos-publicos-ja-esta-disponivel.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 6.2603759765625,
+            "offsetX": 17.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[3]/div[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) a"
+                ],
+                [
+                    "aria/Primeiro-Ministro nomeia Hélder Rosalino para Secretário-Geral do Governo"
+                ]
+            ],
+            "offsetY": 4.5416259765625,
+            "offsetX": 349.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/primeiro-ministro-nomeia-helder-rosalino-para-secretario-geral-do-governo.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 5.25341796875,
+            "offsetX": 16.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[4]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "aria/Portugal recebe os 2,9 mil M€ de euros do 5.º pedido de pagamento do PRR"
+                ]
+            ],
+            "offsetY": 10.62841796875,
+            "offsetX": 265.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/portugal-recebe-os-29-mil-m-de-euros-do-5-pedido-de-pagamento-do-prr.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 5.2603759765625,
+            "offsetX": 23.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e1a5118c-502a-4f07-b57b-5e9f9f1afed8",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "a:nth-of-type(8)"
+                ],
+                [
+                    "xpath///*[@id=\"pagination-pages\"]/a[8]"
+                ],
+                [
+                    "pierce/a:nth-of-type(8)"
+                ],
+                [
+                    "aria/próximo »"
+                ],
+                [
+                    "text/próximo »"
+                ]
+            ],
+            "offsetY": 12.8853759765625,
+            "offsetX": 31.694427490234375,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[1]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "aria/Dia Mundial da Normalização 2024 - Testemunho do Secretário de Estado da Economia"
+                ]
+            ],
+            "offsetY": 3.3680419921875,
+            "offsetX": 282.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/dia-mundial-da-normalizacao-2024-testemunho-do-secretario-de-estado-da-economia-.aspx",
+                    "title": "Dia Mundial da Normalização 2024 - Testemunho do Secretário de Estado da Economia"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 5.25341796875,
+            "offsetX": 19.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[2]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "aria/OCDE - Declaração sobre Proteção e Capacitação dos Consumidores para as transições digital e verde"
+                ]
+            ],
+            "offsetY": 1.454833984375,
+            "offsetX": 291.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/ocde-declaracao-sobre-protecao-e-capacitacao-dos-consumidores-para-as-transicoes-digital-e-verde.aspx",
+                    "title": "OCDE - Declaração sobre Proteção e Capacitação dos Consumidores para as transições digital e verde"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 4.85064697265625,
+            "offsetX": 20.42010498046875,
+            "duration": 447.5
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[3]/div[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) a"
+                ],
+                [
+                    "aria/Potencial enérgico offshore: Apresentação dos resultados da primeira campanha oceanográfica"
+                ]
+            ],
+            "offsetY": 6.5416259765625,
+            "offsetX": 367.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/potencial-energico-offshore-apresentacao-dos-resultados-da-primeira-campanha-oceanografica.aspx",
+                    "title": "Potencial enérgico offshore: Apresentação dos resultados da primeira campanha oceanográfica"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 5.40966796875,
+            "offsetX": 20.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.container-left-aside div:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[4]"
+                ],
+                [
+                    "pierce/div.container-left-aside div:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 27.83331298828125,
+            "offsetX": 390.99999618530273,
+            "duration": 1127.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[4]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "aria/Visita de acompanhamento – Agenda da Microeletrónica e Agenda ILLIANCE"
+                ]
+            ],
+            "offsetY": 4.62841796875,
+            "offsetX": 393.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/visita-de-acompanhamento-agenda-da-microeletronica-e-agenda-illiance.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 2.28814697265625,
+            "offsetX": 14.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=67d0cd8e-3f21-464b-8224-6f0daae7fcdc",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "a:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"pagination-pages\"]/a[4]"
+                ],
+                [
+                    "pierce/a:nth-of-type(4)"
+                ],
+                [
+                    "aria/4"
+                ]
+            ],
+            "offsetY": 9.9027099609375,
+            "offsetX": 9.458328247070312,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[1]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "aria/ANAC, DGC e CEC Portugal divulgam recomendações e cuidados a ter nas viagens aéreas"
+                ]
+            ],
+            "offsetY": 2.479156494140625,
+            "offsetX": 191.99999618530273
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[2]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "aria/Agenda Anticorrupção focada na eficácia na prevenção, repressão e celeridade"
+                ]
+            ],
+            "offsetY": 3.565948486328125,
+            "offsetX": 261.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/agenda-anticorrupcao-focada-na-eficacia-na-prevencao-repressao-e-celeridade.aspx",
+                    "title": "Agenda Anticorrupção focada na eficácia na prevenção, repressão e celeridade"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 6.40966796875,
+            "offsetX": 10.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[3]/div[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) a"
+                ],
+                [
+                    "aria/SGEconomia participa no C-DAYS 2024"
+                ],
+                [
+                    "text/SGEconomia participa no C-DAYS"
+                ]
+            ],
+            "offsetY": 6.65277099609375,
+            "offsetX": 196.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/sge-participa-no-c-days-2024.aspx",
+                    "title": "SGEconomia participa no C-DAYS 2024"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 0.2916259765625,
+            "offsetX": 3.42010498046875,
+            "duration": 431.29999999701977
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[4]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "aria/CE e BPF assinam acordo de garantia InvestEU"
+                ],
+                [
+                    "text/CE  e BPF assinam"
+                ]
+            ],
+            "offsetY": 7.73956298828125,
+            "offsetX": 176.99999618530273,
+            "duration": 1047.199999988079,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/ce-e-bpf-assinam-acordo-o-bpf-de-garantia-investeu.aspx",
+                    "title": "CE e BPF assinam acordo de garantia InvestEU"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 9.40966796875,
+            "offsetX": 13.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=2c151c53-d20e-471d-aa5a-050737f795a0",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "a:nth-of-type(8)"
+                ],
+                [
+                    "xpath///*[@id=\"pagination-pages\"]/a[8]"
+                ],
+                [
+                    "pierce/a:nth-of-type(8)"
+                ],
+                [
+                    "aria/próximo »"
+                ],
+                [
+                    "text/próximo »"
+                ]
+            ],
+            "offsetY": 11.92010498046875,
+            "offsetX": 28.694427490234375,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[1]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(1) a"
+                ],
+                [
+                    "aria/Disponibilizados Relatório Semestral e o Barómetro do PRR"
+                ],
+                [
+                    "text/Disponibilizados Relatório"
+                ]
+            ],
+            "offsetY": 7.3680419921875,
+            "offsetX": 169.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/disponibilizados-relatorio-semestral-e-o-barometro-do-prr.aspx",
+                    "title": "Disponibilizados Relatório Semestral e o Barómetro do PRR"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 4.23956298828125,
+            "offsetX": 23.42010498046875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[2]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(2) a"
+                ],
+                [
+                    "aria/Programa MAR 2020 totalmente executado"
+                ],
+                [
+                    "text/Programa MAR"
+                ]
+            ],
+            "offsetY": 1.4375,
+            "offsetX": 137.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/programa-mar-2020-totalmente-executado.aspx",
+                    "title": "Programa MAR 2020 totalmente executado"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 7.19091796875,
+            "offsetX": 24.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(3) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[3]/div[2]/a"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) a"
+                ],
+                [
+                    "aria/Turismo apresenta medidas de eficiência hídrica para o Algarve"
+                ],
+                [
+                    "text/Turismo apresenta"
+                ]
+            ],
+            "offsetY": 4.5242919921875,
+            "offsetX": 184.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/turismo-apresenta-medidas-de-eficiencia-hidrica-para-o-algarve.aspx",
+                    "title": "Turismo apresenta medidas de eficiência hídrica para o Algarve"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 6.1214599609375,
+            "offsetX": 17.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+                    "title": "Notícias"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "xpath///*[@id=\"mlkFrame\"]/div[4]/div[2]/a"
+                ],
+                [
+                    "pierce/#mlkFrame > div:nth-of-type(4) a"
+                ],
+                [
+                    "aria/Apresentação da Nova Geração de Serviços Públicos"
+                ],
+                [
+                    "text/Apresentação da Nova"
+                ]
+            ],
+            "offsetY": 8.59368896484375,
+            "offsetX": 192.99999618530273,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias/apresentacao-da-nova-geracao-de-servicos-publicos.aspx",
+                    "title": "Apresentação da Nova Geração de Serviços Públicos"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.voltar > a"
+                ],
+                [
+                    "xpath///*[@id=\"ctAreaConteudo\"]/div[2]/a"
+                ],
+                [
+                    "pierce/div.voltar > a"
+                ],
+                [
+                    "aria/Voltar"
+                ],
+                [
+                    "text/Voltar"
+                ]
+            ],
+            "offsetY": 4.30548095703125,
+            "offsetX": 19.75341796875
+        },
+        {
+            "type": "navigate",
+            "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=00b78d15-61c2-454b-87b9-6c4de3029749",
+                    "title": "Notícias"
+                }
+            ]
+        }
+    ]
+}
