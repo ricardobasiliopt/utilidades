@@ -2,6 +2,11 @@
     "title": "teste-sge",
     "steps": [
         {
+            "type": "customStep",
+            "name": "runOncePerCrawl",
+            "parameters": {}
+        },
+        {
             "type": "waitForElement",
             "selectors": [
                 "body"
