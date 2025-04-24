@@ -1,21 +1,10 @@
 {
-    "title": "teste-sge",
+    "title": "custom-behavior",
     "steps": [
         {
-            "type": "customStep",
-            "name": "runOncePerCrawl",
-            "parameters": {}
-        },
-        {
-            "type": "waitForElement",
-            "selectors": [
-                "body"
-            ]
-        },
-        {
             "type": "setViewport",
-            "width": 1220,
-            "height": 850,
+            "width": 1074,
+            "height": 849,
             "deviceScaleFactor": 1,
             "isMobile": false,
             "hasTouch": false,
@@ -52,13 +41,12 @@
                     "text/próximo »"
                 ]
             ],
-            "offsetY": 12.96527099609375,
-            "offsetX": 37.36283874511719,
-            "duration": 559.9000000003725,
+            "offsetY": 8.8836669921875,
+            "offsetX": 42.36283874511719,
             "assertedEvents": [
                 {
                     "type": "navigation",
-                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=d94ce5da-7f17-403b-a596-7404545ca57d",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=16edcc91-8aea-4dc0-a17a-a1ebdbf1ec63",
                     "title": ""
                 }
             ]
@@ -83,13 +71,12 @@
                     "text/próximo »"
                 ]
             ],
-            "offsetY": 10.96527099609375,
-            "offsetX": 37.532958984375,
-            "duration": 376,
+            "offsetY": 6.66143798828125,
+            "offsetX": 41.53297424316406,
             "assertedEvents": [
                 {
                     "type": "navigation",
-                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=e4c12bbe-6fa2-4fab-bb6b-dd32386a34d0",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=1967e552-432d-4f44-837c-4d49929a7c40",
                     "title": ""
                 }
             ]
@@ -114,12 +101,12 @@
                     "text/próximo »"
                 ]
             ],
-            "offsetY": 7.96527099609375,
-            "offsetX": 33.532958984375,
+            "offsetY": 14.66143798828125,
+            "offsetX": 36.53297424316406,
             "assertedEvents": [
                 {
                     "type": "navigation",
-                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=53279cfc-4012-481d-b714-705d1897a17e",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=ede4767e-011f-4899-b29e-f74b69c89130",
                     "title": ""
                 }
             ]
@@ -144,12 +131,42 @@
                     "text/próximo »"
                 ]
             ],
-            "offsetY": 13.96527099609375,
-            "offsetX": 34.532958984375,
+            "offsetY": 12.66143798828125,
+            "offsetX": 52.53297424316406,
             "assertedEvents": [
                 {
                     "type": "navigation",
-                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=baff4f7c-2ad6-4dda-ae40-8b5086167a5d",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=f2c5f4cd-ddf6-403c-8584-3d04d68ff6ad",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/próximo »"
+                ],
+                [
+                    "a:nth-of-type(8)"
+                ],
+                [
+                    "xpath///*[@id=\"pagination-pages\"]/a[8]"
+                ],
+                [
+                    "pierce/a:nth-of-type(8)"
+                ],
+                [
+                    "text/próximo »"
+                ]
+            ],
+            "offsetY": 9.66143798828125,
+            "offsetX": 49.53297424316406,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://www.sgeconomia.gov.pt/noticias.aspx?v=f8454c3f-aa10-401c-82f0-c586e8ab26e1",
                     "title": ""
                 }
             ]
